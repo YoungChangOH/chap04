@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Oct 05 15:45:49 KST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\pytion\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat\\tomcat-jasper\\10.1.11\\6a761c3f72b50b7f6ca9b5ebf137fa57f54ad404\\tomcat-jasper-10.1.11.jar=WEB-INF/lib/tomcat-jasper-10.1.11.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\pytion\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\6.0.12\\89a20bbd7c1f973dc246b1d790b34e0b3e28e74d\\spring-web-6.0.12.jar=WEB-INF/lib/spring-web-6.0.12.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\pytion\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat\\tomcat-jasper-el\\10.1.11\\598b5ec598908ea8b1edf8844f7fbe181435e3a9\\tomcat-jasper-el-10.1.11.jar=WEB-INF/lib/tomcat-jasper-el-10.1.11.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\pytion\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\6.0.11\\c32a7bf6b88b83bac6aa63866fcf208892640446\\spring-web-6.0.11.jar=WEB-INF/lib/spring-web-6.0.11.jar
